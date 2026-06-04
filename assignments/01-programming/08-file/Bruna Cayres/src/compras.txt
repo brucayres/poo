@@ -1,0 +1,6 @@
+João,ProdutoA,100.0
+Maria,ProdutoB,200.0
+João,ProdutoC,50.0
+LinhaIncompleta,20
+João,ProdutoErro,abc
+Carlos,ProdutoD,300.0
